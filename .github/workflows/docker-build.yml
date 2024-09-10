@@ -24,4 +24,4 @@ on:
       with:
       context: .
       push: true
-      tags: ${{ secrets.DOCKERHUB_USERNAME}}/react-melivecode:latest
+      tags: ${{ secrets.DOCKERHUB_USERNAME}}/react-docker-witty:latest
